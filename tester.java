@@ -4,7 +4,7 @@
  * @Ann Tran and Rebekah Leslie 
  * @January 31st, 2015
  */
-public class Tester {
+public class tester {
     static MonteCarlo monteCarlo = new MonteCarlo(5, 3, 2);
     static int cirCount = 0;
     static int sqrCount = 0;
